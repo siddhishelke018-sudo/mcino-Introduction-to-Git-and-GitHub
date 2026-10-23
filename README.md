@@ -12,3 +12,4 @@
 
    ## How to run
    bash simple-interest.sh
+Fixed typo.
